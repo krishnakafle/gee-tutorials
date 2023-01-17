@@ -3,8 +3,9 @@
 I have explained and demostrated the use case in following blog. Please do visit the blog for details and give feedback if you have any.
 https://google-earth-engine.com/
 
-<img src = 'logo.png' class="center">
-
+<p align="center">
+    <img src = 'logo.png' class="center">
+</p>
 
 
 ## Background
@@ -20,5 +21,6 @@ The entire lab work and explanation includes work from undergraduates, master’
 
 ### HTML page output for blog is as follows:
 <br>
-<img src = 'gee-tutorials.jpg' class="center">
-
+<p align="center">
+    <img src = 'gee-tutorials.jpg' class="center">
+</p>
