@@ -4,7 +4,7 @@ We have included the detail explaination of the cocepts in the blog link below..
 https://google-earth-engine.com/
 
 <p align="center">
-    <img src = 'logo.png' class="center">
+    <img src = '../logo.png' class="center">
 </p>
 
 
@@ -22,7 +22,7 @@ The entire lab work and explanation includes work from undergraduates, master’
 ### HTML page output for blog is as follows:
 <br>
 <p align="center">
-    <img src = 'gee-tutorials.jpg' class="center">
+    <img src = '../gee-tutorials.jpg' class="center">
 </p>
 <br>
 

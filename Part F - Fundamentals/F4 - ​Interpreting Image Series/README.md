@@ -4,7 +4,7 @@ We have included the detail explaination of the cocepts in the blog link below..
 https://google-earth-engine.com/
 
 <p align="center">
-    <img src = 'logo.png' class="center">
+    <img src = '../../logo.png' class="center">
 </p>
 
 
@@ -22,10 +22,15 @@ The entire lab work and explanation includes work from undergraduates, master’
 ### HTML page output for blog is as follows:
 <br>
 <p align="center">
-    <img src = 'gee-tutorials.jpg' class="center">
+    <img src = '../../gee-tutorials.jpg' class="center">
 </p>
 <br>
 
+# Part F4: Interpreting Image Series
+
+One of the paradigm-changing features of Earth Engine is the ability to access decades of imagery without the previous limitation of needing to download all the data to a local disk for processing. Because remote-sensing data files can be enormous, this used to limit many projects to viewing two or three images from different periods. With Earth Engine, users can access tens or hundreds of thousands of images to understand the status of places across decades.
+
+https://google-earth-engine.com/Interpreting-Image-Series/Filter-Map-Reduce/
 
 # Invitation for collaborators:
 Please feel free to contribute to the document. Let's try bring the spatial data science contents together so that it would be easier for every one to learn and share the knowledge. You can also provide your valuable suggestion from our contact page.

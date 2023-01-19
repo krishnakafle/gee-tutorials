@@ -4,7 +4,7 @@ We have included the detail explaination of the cocepts in the blog link below..
 https://google-earth-engine.com/
 
 <p align="center">
-    <img src = 'logo.png' class="center">
+    <img src = '../../../logo.png' class="center">
 </p>
 
 
@@ -22,9 +22,34 @@ The entire lab work and explanation includes work from undergraduates, master’
 ### HTML page output for blog is as follows:
 <br>
 <p align="center">
-    <img src = 'gee-tutorials.jpg' class="center">
+    <img src = '../../../gee-tutorials.jpg' class="center">
 </p>
 <br>
+
+
+# Part A2: Aquatic and Hydrological Applications
+
+Earth Engine’s global scope and long time series allow analysts to understand the water cycle in new and unique ways. These include surface water in the form of floods and river characteristics, long-term issues of water balance, and the detection of subsurface ground water.
+
+# Chapter A2.3: Surface Water Mapping
+
+## Authors
+K. Markert, G. Donchyts, A. Haag
+
+
+
+## Overview
+In this chapter, you will learn the step-by-step implementation of an efficient and robust approach for mapping surface water. You will also learn how the extracted surface water information can be used in conjunction with historical surface water information to extract flooded areas. This chapter will focus mostly on the use of Sentinel-1 Synthetic Aperture Radar (SAR) data, but the approaches apply to both SAR and optical remotely sensed data.
+
+
+## Learning Outcomes
+ - Applying Otsu thresholding techniques for surface water mapping.
+ - Understanding the considerations of global versus adaptive histogram sampling.
+ - Implementing an adaptive histogram sampling approach.
+ - Extracting flooded areas from a surface water map.
+
+## Link for details:
+https://google-earth-engine.com/Aquatic-and-Hydrological-Applications/Surface-Water-Mapping/
 
 
 # Invitation for collaborators:

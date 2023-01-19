@@ -4,7 +4,7 @@ We have included the detail explaination of the cocepts in the blog link below..
 https://google-earth-engine.com/
 
 <p align="center">
-    <img src = 'logo.png' class="center">
+    <img src = '../../logo.png' class="center">
 </p>
 
 
@@ -22,10 +22,15 @@ The entire lab work and explanation includes work from undergraduates, master’
 ### HTML page output for blog is as follows:
 <br>
 <p align="center">
-    <img src = 'gee-tutorials.jpg' class="center">
+    <img src = '../../gee-tutorials.jpg' class="center">
 </p>
 <br>
 
+# Part A1: Human Applications
+
+This Part covers some of the many Human Applications of Earth Engine. It includes demonstrations of how Earth Engine can be used in agricultural and urban settings, including for sensing the built environment and the effects it has on air composition and temperature. This Part also covers the complex topics of human health, illicit deforestation activity, and humanitarian actions.
+
+https://google-earth-engine.com/Human-Applications/Agricultural-Environments/
 
 # Invitation for collaborators:
 Please feel free to contribute to the document. Let's try bring the spatial data science contents together so that it would be easier for every one to learn and share the knowledge. You can also provide your valuable suggestion from our contact page.

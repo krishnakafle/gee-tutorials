@@ -4,7 +4,7 @@ We have included the detail explaination of the cocepts in the blog link below..
 https://google-earth-engine.com/
 
 <p align="center">
-    <img src = 'logo.png' class="center">
+    <img src = '../../logo.png' class="center">
 </p>
 
 
@@ -22,9 +22,16 @@ The entire lab work and explanation includes work from undergraduates, master’
 ### HTML page output for blog is as follows:
 <br>
 <p align="center">
-    <img src = 'gee-tutorials.jpg' class="center">
+    <img src = '../../gee-tutorials.jpg' class="center">
 </p>
 <br>
+
+
+# Part F6: Advanced Topics
+
+Although you now know the most basic fundamentals of Earth Engine, there is still much more that can be done. The Part presents some advanced topics that can help expand your skill set for doing larger and more complex projects. These include tools for sharing code among users, scaling up with efficient project design, creating apps for non-expert users, and combining R with other information processing platforms.
+
+https://google-earth-engine.com/Advanced-Topics/Advanced-Raster-Visualization/
 
 
 # Invitation for collaborators:

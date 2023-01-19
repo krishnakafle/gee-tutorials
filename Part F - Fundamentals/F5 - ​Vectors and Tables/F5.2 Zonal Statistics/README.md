@@ -4,7 +4,7 @@ We have included the detail explaination of the cocepts in the blog link below..
 https://google-earth-engine.com/
 
 <p align="center">
-    <img src = 'logo.png' class="center">
+    <img src = '../../../logo.png' class="center">
 </p>
 
 
@@ -22,9 +22,34 @@ The entire lab work and explanation includes work from undergraduates, master’
 ### HTML page output for blog is as follows:
 <br>
 <p align="center">
-    <img src = 'gee-tutorials.jpg' class="center">
+    <img src = '../../../gee-tutorials.jpg' class="center">
 </p>
 <br>
+
+# Part F5: Vectors and Tables
+
+
+In addition to raster data processing, Earth Engine supports a rich set of vector processing tools. This Part introduces you to the vector framework in Earth Engine, shows you how to create and to import your vector data, and how to combine vector and raster data for analyses.
+
+# Chapter F5.2: Zonal Statistics
+## Authors 
+Sara Winsemius and Justin Braaten
+
+
+
+## Overview
+The purpose of this chapter is to extract values from rasters for intersecting points or polygons. We will lay out the process and a function to calculate zonal statistics, which includes optional parameters to modify the function, and then apply the process to three examples using different raster datasets and combinations of parameters.
+
+
+## Learning Outcomes 
+ - Buffering points as square or circular regions.
+ - Writing and applying functions with optional parameters.
+ - Learning what zonal statistics are and how to use reducers.
+ - Exporting computation results to a table.
+ - Copying properties from one image to another.
+
+## Link for details:
+https://google-earth-engine.com/Vectors-and-Tables/Zonal-Statistics/
 
 
 # Invitation for collaborators:

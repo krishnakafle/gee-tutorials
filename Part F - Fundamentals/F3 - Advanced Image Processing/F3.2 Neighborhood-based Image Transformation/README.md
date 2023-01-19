@@ -4,7 +4,7 @@ We have included the detail explaination of the cocepts in the blog link below..
 https://google-earth-engine.com/
 
 <p align="center">
-    <img src = 'logo.png' class="center">
+    <img src = '../../../logo.png' class="center">
 </p>
 
 
@@ -22,9 +22,32 @@ The entire lab work and explanation includes work from undergraduates, master’
 ### HTML page output for blog is as follows:
 <br>
 <p align="center">
-    <img src = 'gee-tutorials.jpg' class="center">
+    <img src = '../../../gee-tutorials.jpg' class="center">
 </p>
 <br>
+
+# Part F3: Advanced Image Processing
+
+Once you understand the basics of processing images in Earth Engine, this Part will present some of the more advanced processing tools available for treating individual images. These include creating regressions among image bands, transforming images with pixel-based and neighborhood-based techniques, and grouping individual pixels into objects that can then be classified.
+
+# Chapter F3.2: Neighborhood-Based Image Transformation
+## Authors
+Karen Dyson, Andréa Puzzi Nicolau, David Saah, Nicholas Clinton
+
+
+
+## Overview
+This chapter builds on image transformations to include a spatial component. All of these transformations leverage a neighborhood of multiple pixels around the focal pixel to inform the transformation of the focal pixel.
+
+
+## Learning Outcomes
+ - Performing image morphological operations.
+ - Defining kernels in Earth Engine.
+ - Applying kernels for image convolution to smooth and enhance images.
+ - Viewing a variety of neighborhood-based image transformations in Earth Engine.
+
+## Link for details:
+https://google-earth-engine.com/Advanced-Image-Processing/Neighborhood-based-Image-Transformation/
 
 
 # Invitation for collaborators:

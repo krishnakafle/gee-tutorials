@@ -4,7 +4,7 @@ We have included the detail explaination of the cocepts in the blog link below..
 https://google-earth-engine.com/
 
 <p align="center">
-    <img src = 'logo.png' class="center">
+    <img src = '../../../logo.png' class="center">
 </p>
 
 
@@ -22,9 +22,32 @@ The entire lab work and explanation includes work from undergraduates, master’
 ### HTML page output for blog is as follows:
 <br>
 <p align="center">
-    <img src = 'gee-tutorials.jpg' class="center">
+    <img src = '../../../gee-tutorials.jpg' class="center">
 </p>
 <br>
+
+# Part F2: Interpreting Images
+
+<br>
+Now that you know how images are viewed and what kinds of images exist in Earth Engine, how do we manipulate them? To gain the skills of interpreting images, you’ll work with bands, combining values to form indices and masking unwanted pixels. Then, you’ll learn some of the techniques available in Earth Engine for classifying images and interpreting the results.
+
+# Authors
+Andréa Puzzi Nicolau, Karen Dyson, David Saah, Nicholas Clinton
+
+
+
+# Overview
+This chapter will enable you to assess the accuracy of an image classification. You will learn about different metrics and ways to quantify classification quality in Earth Engine. Upon completion, you should be able to evaluate whether your classification needs improvement and know how to proceed when it does.
+
+
+# Learning Outcomes
+ - Learning how to perform accuracy assessment in Earth Engine.
+ - Understanding how to generate and read a confusion matrix.
+ - Understanding overall accuracy and the kappa coefficient.
+ - Understanding the difference between user’s and producer’s accuracy, and the difference between omission and commission errors.
+
+# Link for details:
+https://google-earth-engine.com/Interpreting-Images/Accuracy-Assessment-Quantifying-Classification-Quality/
 
 
 # Invitation for collaborators:

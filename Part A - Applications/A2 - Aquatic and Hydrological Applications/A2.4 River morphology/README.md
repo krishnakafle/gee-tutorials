@@ -4,7 +4,7 @@ We have included the detail explaination of the cocepts in the blog link below..
 https://google-earth-engine.com/
 
 <p align="center">
-    <img src = 'logo.png' class="center">
+    <img src = '../../../logo.png' class="center">
 </p>
 
 
@@ -22,9 +22,33 @@ The entire lab work and explanation includes work from undergraduates, master’
 ### HTML page output for blog is as follows:
 <br>
 <p align="center">
-    <img src = 'gee-tutorials.jpg' class="center">
+    <img src = '../../../gee-tutorials.jpg' class="center">
 </p>
 <br>
+
+
+# Part A2: Aquatic and Hydrological Applications
+
+Earth Engine’s global scope and long time series allow analysts to understand the water cycle in new and unique ways. These include surface water in the form of floods and river characteristics, long-term issues of water balance, and the detection of subsurface ground water.
+
+# Chapter A2.4 River Morphology
+## Authors
+Xiao Yang, Theodore Langhorst, Tamlin M. Pavelsky
+
+
+
+## Overview 
+The purpose of this chapter is to showcase Earth Engine’s application in fluvial hydrology and geomorphology. Specifically, we show examples demonstrating how to use Earth Engine to extract a river’s centerline and width, and how to calculate the bank erosion rate. At the end of this chapter, you will be able to distinguish rivers from other water bodies, perform basic morphological analyses, and detect changes in river form over time.
+
+
+## Learning Outcomes
+ - Working with Landsat surface water products.
+ - Calculating river centerline location and width.
+ - Quantifying river bank erosion.
+
+## Link for details:
+https://google-earth-engine.com/Aquatic-and-Hydrological-Applications/River-morphology/
+
 
 
 # Invitation for collaborators:

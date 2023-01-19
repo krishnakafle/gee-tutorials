@@ -4,7 +4,7 @@ We have included the detail explaination of the cocepts in the blog link below..
 https://google-earth-engine.com/
 
 <p align="center">
-    <img src = 'logo.png' class="center">
+    <img src = '../../../logo.png' class="center">
 </p>
 
 
@@ -22,9 +22,32 @@ The entire lab work and explanation includes work from undergraduates, master’
 ### HTML page output for blog is as follows:
 <br>
 <p align="center">
-    <img src = 'gee-tutorials.jpg' class="center">
+    <img src = '../../../gee-tutorials.jpg' class="center">
 </p>
 <br>
+
+# Part F5: Vectors and Tables
+
+
+In addition to raster data processing, Earth Engine supports a rich set of vector processing tools. This Part introduces you to the vector framework in Earth Engine, shows you how to create and to import your vector data, and how to combine vector and raster data for analyses.
+
+# Chapter F5.3: Advanced Vector Operations
+## Author 
+Ujaval Gandhi
+
+
+
+# Overview 
+This chapter covers advanced techniques for visualizing and analyzing vector data in Earth Engine. There are many ways to visualize feature collections, and you will learn how to pick the appropriate method to create visualizations, such as a choropleth map. We will also cover geoprocessing techniques involving multiple vector layers, such as selecting features in one layer by their proximity to features in another layer and performing spatial joins.
+
+
+# Learning Outcomes
+ - Visualizing any vector dataset and creating a thematic map.
+ - Understanding joins in Earth Engine.
+ - Carrying out geoprocessing tasks with vector layers in Earth Engine.
+
+## Link for details:
+https://google-earth-engine.com/Vectors-and-Tables/Advanced-Vector-Operations/
 
 
 # Invitation for collaborators:

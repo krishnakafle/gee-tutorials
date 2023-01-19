@@ -4,7 +4,7 @@ We have included the detail explaination of the cocepts in the blog link below..
 https://google-earth-engine.com/
 
 <p align="center">
-    <img src = 'logo.png' class="center">
+    <img src = '../../logo.png' class="center">
 </p>
 
 
@@ -22,10 +22,16 @@ The entire lab work and explanation includes work from undergraduates, master’
 ### HTML page output for blog is as follows:
 <br>
 <p align="center">
-    <img src = 'gee-tutorials.jpg' class="center">
+    <img src = '../../gee-tutorials.jpg' class="center">
 </p>
 <br>
 
+
+# Part A2: Aquatic and Hydrological Applications
+
+Earth Engine’s global scope and long time series allow analysts to understand the water cycle in new and unique ways. These include surface water in the form of floods and river characteristics, long-term issues of water balance, and the detection of subsurface ground water.
+
+https://google-earth-engine.com/Aquatic-and-Hydrological-Applications/Groundwater-monitoring-with-GRACE/
 
 # Invitation for collaborators:
 Please feel free to contribute to the document. Let's try bring the spatial data science contents together so that it would be easier for every one to learn and share the knowledge. You can also provide your valuable suggestion from our contact page.

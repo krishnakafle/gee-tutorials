@@ -4,7 +4,7 @@ We have included the detail explaination of the cocepts in the blog link below..
 https://google-earth-engine.com/
 
 <p align="center">
-    <img src = 'logo.png' class="center">
+    <img src = '../../../logo.png' class="center">
 </p>
 
 
@@ -22,9 +22,32 @@ The entire lab work and explanation includes work from undergraduates, master’
 ### HTML page output for blog is as follows:
 <br>
 <p align="center">
-    <img src = 'gee-tutorials.jpg' class="center">
+    <img src = '../../../gee-tutorials.jpg' class="center">
 </p>
 <br>
+
+# Part A3: Terrestrial Applications
+
+Earth’s terrestrial surface is analyzed regularly by satellites, in search of both change and stability. These are of great interest to a wide cross-section of Earth Engine users, and projects across large areas illustrate both the challenges and opportunities for life on Earth. Chapters in this Part illustrate the use of Earth Engine for disturbance, understanding long-term changes of rangelands, and creating optimum study sites.
+
+
+# Chapter A3.6: Working With GPS and Weather Data
+
+## Authors
+Peder Engelstad, Daniel Carver, Nicholas E. Young
+
+
+
+## Overview
+The purpose of this chapter is to demonstrate how to use Google Earth Engine as a means of associating remotely sensed data (weather observations) with open-source GPS point locations. These methods will provide a quick and easy way to access and analyze large amounts of information relative to your own research and efficiently move your data outside Earth Engine.
+
+
+## Learning Outcomes
+ - Pairing values from remotely sensed data with uploaded data.
+ - Exporting features from Earth Engine.
+
+## Link for details:
+https://google-earth-engine.com/Terrestrial-Applications-part-2/Working-With-GPS-and-Weather-Data/
 
 
 # Invitation for collaborators:

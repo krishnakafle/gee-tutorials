@@ -4,7 +4,7 @@ We have included the detail explaination of the cocepts in the blog link below..
 https://google-earth-engine.com/
 
 <p align="center">
-    <img src = 'logo.png' class="center">
+    <img src = '../../../logo.png' class="center">
 </p>
 
 
@@ -22,9 +22,34 @@ The entire lab work and explanation includes work from undergraduates, master’
 ### HTML page output for blog is as follows:
 <br>
 <p align="center">
-    <img src = 'gee-tutorials.jpg' class="center">
+    <img src = '../../../gee-tutorials.jpg' class="center">
 </p>
 <br>
+
+
+# Part A2: Aquatic and Hydrological Applications
+
+Earth Engine’s global scope and long time series allow analysts to understand the water cycle in new and unique ways. These include surface water in the form of floods and river characteristics, long-term issues of water balance, and the detection of subsurface ground water.
+
+# Chapter A2.5: Water Balance and Drought
+
+## Authors
+Ate Poortinga, Quyen Nguyen, Nyein Soe Thwal, Andréa Puzzi Nicolau
+
+
+
+## Overview 
+In this chapter, you will learn simple water balance calculations using remote- sensing-derived products related to precipitation and evapotranspiration. You will work at the river basin scale and perform time-series analysis, while comparing the data series with remote sensing vegetation and drought indices using the Earth Engine platform. You will also overlay the various indices with a land cover map to estimate potential drought impacts throughout the region.
+
+
+## Learning Outcomes
+ - Understanding the basics of remote-sensing-derived precipitation and evapotranspiration products.
+ - Calculating monthly aggregate statistics.
+ - Performing time-series analysis.
+ - Calculating vegetation and drought indices.
+
+## Link for details:
+https://google-earth-engine.com/Aquatic-and-Hydrological-Applications/Water-Balance-and-Drought/
 
 
 # Invitation for collaborators:
